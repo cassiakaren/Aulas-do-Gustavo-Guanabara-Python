@@ -8,6 +8,6 @@ d=n1/n2
 di=n1//n2
 e=n1**n2
 r=n1%n2
-print('a soma é {}, o produto é {} e a divisão é {:.3f} '. format(s,m,d), end='')
+print('A soma é {},\n O produto é {} \n E a divisão é {:.3f} '. format(s,m,d), end='')
 print('Divisão inteira é {} e potencia {} '.format(di,e))
 
